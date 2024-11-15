@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello World 💜
+
+I'm Sahithi Lingampalli, a UI/UX and product designer studying Design | Media Arts and Cognitive Science at UCLA. My origin story begins in 3rd grade with obsession with fonts on Microsoft Word and building websites using HTML / CSS / JS just to interact with them.
+
+Thanks for visiting my GitHub! :)
+
+- 📫 How to reach me: sahithi@g.ucla.edu
+- 💻 Visit my hand coded portfolio at: www.sahithis.com
 
 <!--
 **paneersamosa/paneersamosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
