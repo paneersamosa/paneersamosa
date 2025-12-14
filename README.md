@@ -5,7 +5,7 @@ I'm Sahithi Lingampalli, a UI/UX and product designer studying Design | Media Ar
 Thanks for visiting my GitHub! :)
 
 - 📫 How to reach me: sahithi@g.ucla.edu
-- 💻 Visit my hand coded portfolio at: www.sahithis.com
+- 💻 Visit my portfolio at: www.sahithis.com
 
 <!--
 **paneersamosa/paneersamosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
